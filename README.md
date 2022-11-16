@@ -28,3 +28,10 @@ I have used Python3
 ### File Descriptions
 - SeattleAirbnbData.ipynb:Jupyter notebook with exploratory analysis, explanations and visualisations.
 - listings.csv: Seattle Airbnb dataset in csv format
+
+**Data source: https://www.kaggle.com/airbnb/seattle**
+
+**Acknowledgements:**
+
+- Dataset credit: airbnb
+- License:CC0-Public Domain
